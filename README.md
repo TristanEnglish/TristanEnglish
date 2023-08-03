@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/TristanEnglish/TristanEnglish/assets/71680462/45a928f2-f219-4a3c-aa34-40b44e010b80)
+![github-header-image](https://github.com/TristanEnglish/TristanEnglish/assets/71680462/561c0df8-7714-4272-8485-437439d951a1)
+
 ### Hi there 👋 I'm Tristan!
 - 🔭 I’m currently working on **this GitHub Page! ;)**
 - 🌱 I’m currently learning **Houdini**, **Nuke**, **Maya**, and **React**.

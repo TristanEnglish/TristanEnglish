@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tristan!
 - 🎓 I’ll be graduating in **May 2024** with a **B.A. in Computer Science!**
 - 👀 I’m currently seeking **full-time opportunities!**
-- 🎬 I'm a 3D and VFX Enthusiast and love playing with **Blender** and **Houdini** in my free time.
+- 🎬 I'm a 3D Enthusiast and love playing with **Blender** and **Houdini** in my free time.
 
 <h3> 📬 Connect with me: <a href="https://www.linkedin.com/in/tristan-english/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@tristan-english-" /></a> <a href="mailto:tristanwenglish@gmail.com" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="tristanwenglish@gmail.com"></a>  </h3>
 

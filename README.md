@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tristan!
-- 🎓 I’ll be graduating in **May 2024** with a **B.A. in Computer Science!**
+- 🎓 I recently graduated in **May 2024** with a **B.A. in Computer Science!**
 - 👀 I’m currently seeking **full-time opportunities in Software Development!**
 - 🎬 I'm a 3D Enthusiast and love playing with **Blender** and **Houdini** in my free time.
 

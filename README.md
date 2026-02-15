@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tristan!
-- 🎓 I recently graduated in **May 2024** with a **B.A. in Computer Science!**
+- 🎓 I graduated in **May 2024** with a **B.A. in Computer Science!**
 - 💻 I'm currently a Junior Software Engineer at Root Instance.
 - 🎬 I'm a 3D Enthusiast and love playing with **Blender** and **Houdini** in my free time.
 
